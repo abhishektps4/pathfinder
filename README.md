@@ -2,8 +2,8 @@ An interactive and animated pathfinding algorithm visualizer built with HTML, CS
 
 ---
 ![pathfinder Screenshot](assets/pathfinder.png)
+
 --- 
-🚀 Live Demo
 🌐 Live Demo🔗 : https://abhishektps4.github.io/pathfinder/
 ---
 
