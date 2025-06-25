@@ -36,15 +36,5 @@ Control the animation speed via a slider.
 Shows the number of steps in the shortest path found. 
 ---
 
-
-/pathfinder-visualizer
-├── index.html         # Main UI layout
-├── styles.css         # Grid and visual styling
-├── script.js          # All pathfinding logic and grid interactivity
-└── README.md 
----
-
-
-
 MIT License
 © 2025 Abhishek Raj
