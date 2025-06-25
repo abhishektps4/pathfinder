@@ -2,6 +2,10 @@ An interactive and animated pathfinding algorithm visualizer built with HTML, CS
 
 ---
 ![pathfinder Screenshot](assets/pathfinder.png)
+--- 
+🚀 Live Demo
+🌐 Live Demo🔗 : https://abhishektps4.github.io/pathfinder/
+---
 
 🔁 Multiple Algorithms
 Visualize:
@@ -13,6 +17,7 @@ Depth-First Search (DFS)
 Dijkstra’s Algorithm
 
 A* Search Algorithm
+---
 
 🎯 Interactive Grid
 
@@ -29,6 +34,7 @@ Control the animation speed via a slider.
 📏 Path Length Display
 
 Shows the number of steps in the shortest path found. 
+---
 
 
 /pathfinder-visualizer
@@ -36,6 +42,7 @@ Shows the number of steps in the shortest path found.
 ├── styles.css         # Grid and visual styling
 ├── script.js          # All pathfinding logic and grid interactivity
 └── README.md 
+---
 
 
 
